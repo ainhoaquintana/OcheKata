@@ -13,12 +13,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "UserLoginService\\": "src/"
+            "Deg540\\PHPTestingBoilerplate\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "UserLoginService\\Tests\\": "tests/"
+            "Deg540\\PHPTestingBoilerplate\\Tests\\": "tests/"
         }
     },
     "config": {
